@@ -1,0 +1,29 @@
+- cài đặt nvm
+	- link realease: dowwload file zip: https://github.com/coreybutler/nvm-windows/releases/tag/1.1.12
+	- nvm list: chekc all version đã cài
+	- nvm use <version>
+    - nvm install <version> ex:nvm install 18.17.0
+- cài đặt mongodb:
+	- https://blogchiasekienthuc.com/thu-thuat-hay/cai-dat-mongodb-tren-windows.html
+	- https://www.mongodb.com/try/download/community
+	
+- sau khi cài đặt: mở mongodb compass
+	- tạo data base tên là demo
+	- lấy connection string
+	
+- setup source:
+	- be:
+		- cd vào folder be:
+			- run npm install
+			- run npm start
+	- fe:
+		- cd vào folder fe:
+			- run npm npm install
+			- run npm start
+- Chạy demo: nhập đường dẫn localhost:4300 trên trình duyệt và bắt đầu chạy demo
+========================================================================================
+
+note:
+	- node version: v18.15.0  + 
+	
+
